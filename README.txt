@@ -1,4 +1,4 @@
-Projet réalisé par Faouzi Lougani (faouzi.lougani@hotmail.com) et Quentin Guardia (quentin.guardia@protonmail.com)
+Projet réalisé par Faouzi Lougani (faouzi.lougani@hotmail.com) et QG (quentin.guardia@protonmail.com)
 
 Jeu de 8 dames développé sous Android Studio pour fonctionner sur portable.
 
